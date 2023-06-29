@@ -11,4 +11,4 @@ To analyze the information in this database I will use mainly PySpark and SQL an
 The final results were written into a CSV file "football_league_performance.csv" to create a Tableau [dashboard](https://public.tableau.com/views/EuropeanFootballLeagues_16879911046350/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_linkv).
 
 ## Running notebook
-Running the notebook requires installing PySpark and downloading the database from [link](https://www.kaggle.com/datasets/davidcariboo/player-scores) and creating a "files" folder inside the repository folder..
+Running the notebook requires installing PySpark and downloading the database from [Kaggle](https://www.kaggle.com/datasets/davidcariboo/player-scores) and creating a "files" folder inside the repository folder..
