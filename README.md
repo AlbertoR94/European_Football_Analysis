@@ -1,4 +1,4 @@
-# European_Football_Analysis
+# European_Football_Analysis ![Static Badge](https://img.shields.io/badge/python-3.9-blue?logo=Python) ![Static Badge](https://img.shields.io/badge/spark-3.4.0-green?logo=apachespark)
 Football database analysis using PySpark and SQL
 
 ## Description
